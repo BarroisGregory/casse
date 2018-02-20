@@ -1,4 +1,4 @@
-//un texte psséen entré standard
+//un texte passé en entré standard
 // changeCasse.cpp
 // g++ -std=c++11 -Wall -Wextra -o changeCasse.out changeCasse.cpp
 #include <cctype>
